@@ -1,7 +1,7 @@
-# Sobre Mim
+# About Me
 
 <p align="justify">
-Opa, tudo bem? Me chamo Pedro Augusto, sou pesquisador e cientista de dados com experiência em Machine Learning, Natural Language Processing (NLP) e automação de processos. Especializado em coleta e processamento de dados, desenvolvimento de modelos preditivos e soluções de software. Tenho proficiência em análise de dados, modelagem estatística e algoritmos de Machine Learning, utilizando Python como minha principal linguagem de programação. 
+Hi, my name is Pedro Augusto. I am a researcher and data scientist with experience in Machine Learning, Natural Language Processing (NLP), and process automation. I specialize in data collection and processing, predictive model development, and software solutions. I am proficient in data analysis, statistical modeling, and Machine Learning algorithms, using Python as my main programming language. 
 
 ###
   
