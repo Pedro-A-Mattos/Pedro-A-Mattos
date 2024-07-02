@@ -5,7 +5,7 @@ Hi, my name is Pedro Augusto. I am a researcher and data scientist with experien
 
 ###
   
-Experiência:
+Experience:
 <ul>
 <li>AI Researcher</li>
 <li> Data scientist</li>
