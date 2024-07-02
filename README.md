@@ -1,7 +1,7 @@
 # Sobre Mim
 
 <p align="justify">
-Olá! Sou Pedro Augusto, pesquisador e cientista de dados com ampla experiência em machine learning, NLP e automação de processos. Especializado em coleta, processamento, desenvolvimento de modelos preditivos e soluções de software. Tenho experiência em análise de dados, modelagem estatística e algoritmos de machine learning, utilizando Python como minha principal linguagem de programação. 
+Opa, tudo bem? Me chamo Pedro Augusto, sou pesquisador e cientista de dados com experiência em Machine Learning, Natural Language Processing (NLP) e automação de processos. Especializado em coleta e processamento de dados, desenvolvimento de modelos preditivos e soluções de software. Tenho proficiência em análise de dados, modelagem estatística e algoritmos de Machine Learning, utilizando Python como minha principal linguagem de programação. 
 
 ###
   
